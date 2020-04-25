@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chitarra.iml" filepath="$PROJECT_DIR$/Chitarra.iml" group="Chitarra" />
+      <module fileurl="file://$PROJECT_DIR$/app/Chitarra-app.iml" filepath="$PROJECT_DIR$/app/Chitarra-app.iml" group="Chitarra/app" />
       <module fileurl="file://$PROJECT_DIR$/ChitarraDemo.iml" filepath="$PROJECT_DIR$/ChitarraDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
